@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - adventure
 post: https://jchai01.github.io/posts/js13k-2025/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
